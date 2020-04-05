@@ -4,3 +4,5 @@ class Dog
   lassie = dog.new
 
   snoopy = dog.new
+
+end 
